@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104011170819",
+    "project_id": "oralens-3c9a0",
+    "storage_bucket": "oralens-3c9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104011170819:android:e71fbf85c615b841273a36",
+        "android_client_info": {
+          "package_name": "com.example.oralens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4sffBOue9nBbm536ufD_A3tmdPXKJSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
